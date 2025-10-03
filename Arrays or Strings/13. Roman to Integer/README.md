@@ -69,4 +69,4 @@ Explanation:
 - **O(n)** → we scan the string once.  
 
 ## Space Complexity
-- **O(1)** → only a mapping table for Roman symbols is used.
+- **O(n)** → only a mapping table for Roman symbols is used.
