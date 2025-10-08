@@ -36,6 +36,3 @@ When we encounter the same element again, we check the index difference:
 |------|-------------|-------------|
 | **Time** | O(n) | Each element is inserted/checked once in the map |
 | **Space** | O(n) | At most all elements are stored in the map |
-
-    }
-}
